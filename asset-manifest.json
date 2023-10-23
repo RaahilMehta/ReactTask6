@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/ReactTask6/static/css/main.c707735d.css",
+    "main.js": "/ReactTask6/static/js/main.a8d9346a.js",
+    "static/media/bg-texturte.jpg": "/ReactTask6/static/media/bg-texturte.5049f917956f8f5240e3.jpg",
+    "static/media/Educational Website.jpg": "/ReactTask6/static/media/Educational Website.97050bafaa509873a210.jpg",
+    "static/media/Project4.jpg": "/ReactTask6/static/media/Project4.8de82fea50154dddbe24.jpg",
+    "static/media/Startup Agency Project.jpg": "/ReactTask6/static/media/Startup Agency Project.dcb42126ea6ff853c8f3.jpg",
+    "static/media/Me.jpg": "/ReactTask6/static/media/Me.8edf9289de269ba18f48.jpg",
+    "static/media/Covid-19 Project.jpg": "/ReactTask6/static/media/Covid-19 Project.285d47443247c9a7a625.jpg",
+    "static/media/RubyCode Blog Project.jpg": "/ReactTask6/static/media/RubyCode Blog Project.d46d52b39719c767823a.jpg",
+    "static/media/Jokes Project.jpg": "/ReactTask6/static/media/Jokes Project.133f44f42c2b6b0c1781.jpg",
+    "index.html": "/ReactTask6/index.html",
+    "main.c707735d.css.map": "/ReactTask6/static/css/main.c707735d.css.map",
+    "main.a8d9346a.js.map": "/ReactTask6/static/js/main.a8d9346a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c707735d.css",
+    "static/js/main.a8d9346a.js"
+  ]
+}
